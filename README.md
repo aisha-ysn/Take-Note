@@ -1,7 +1,7 @@
 
 # Take-Note
 
-# Table of Contents 
+## Table of Contents 
   - [Deployment](#deployment)
   - [Usage](#usage)
   - [User Story](#user-story)
@@ -16,6 +16,9 @@ Link to deployed site: https://note-taker-ysn.herokuapp.com/public/notes.html
 
 ## Usage 
 This gif shows the application being used to make and delete notes:
+
+![Notes](https://user-images.githubusercontent.com/83360651/130371174-8b689201-ea0f-4e4b-beb9-029a0b348500.gif)
+
 
 
 ## User Story
