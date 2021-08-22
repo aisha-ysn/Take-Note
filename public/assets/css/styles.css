@@ -6,7 +6,7 @@ body {
 }
 
 .save-note {
-    display: none;
+    display: inline;
 }
 
 .icons i {
@@ -85,7 +85,7 @@ body {
 }
 
 .save-note {
-    display: none;
+    display: inline;
 }
 
 .icons i {
